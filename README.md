@@ -4,7 +4,7 @@ Sys-clk for RYZ (RYZ-Toolbox)
 
 Это кастомная версия утилиты sys-clk, предназначенная для экспериментов и тестирования. Она позволяет управлять тактовыми частотами CPU и GPU на консоли Nintendo Switch™.
 
-https://img.shields.io/badge/Download-v4.0.0-blue?style=for-the-badge
+https://img.shields.io/badge/Download-v5.0.0-blue?style=for-the-badge
 
 Особенности
 
