@@ -3,7 +3,7 @@
 > 🎮 Кастомная версия sys-clk от **Kirill-git**  
 > 🧪 Управление частотами CPU/GPU/MEM на Nintendo Switch™
 
-[![Download](https://img.shields.io/github/downloads/Dimasick-git/Ryzhenka/total?style=for-the-badge&logo=github&color=4ecdc4)](https://github.com/Dimasick-git/Ryzhenka/releases)
+[![Downloads](https://img.shields.io/github/downloads/Ryazhenka-Helper-1/Sys-clk-for-RYZ/total?style=for-the-badge&logo=github&color=4ecdc4)](https://github.com/Ryazhenka-Helper-1/Sys-clk-for-RYZ/releases)
 [![Latest Release](https://img.shields.io/github/v/release/Dimasick-git/Ryzhenka?style=for-the-badge&logo=github&color=ff6b6b)](https://github.com/Dimasick-git/Ryzhenka/releases/latest)
 [![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://github.com/Dimasick-git/Ryzhenka/blob/main/LICENSE)
 
